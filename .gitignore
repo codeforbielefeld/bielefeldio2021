@@ -131,3 +131,4 @@ dmypy.json
 # PyWikiBot
 *.throttle
 throttle.ctrl
+*.lwp

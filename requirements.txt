@@ -1,0 +1,5 @@
+plotly=5.3.1
+requests=2.26.0
+jupyter_nbextensions_configurator=0.4.1
+hide_code=0.6.0
+rise=5.7.1

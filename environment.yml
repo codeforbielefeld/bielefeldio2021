@@ -1,0 +1,16 @@
+name: jupyter-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - plotly
+  - requests
+  - jupyter_nbextensions_configurator
+  - hide_code
+  - rise
+  - pip
+  - pip:
+    - pywikibot
+    - wikitextparser
